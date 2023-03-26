@@ -1,4 +1,4 @@
-%%icon=https://raw.githubusercontent.com/HisteriaMC/histeria-wiki/main/.assets/items/enchanted-book2.gif%%
+%%icon=https://raw.githubusercontent.com/sepawuam/histeria-wiki/main/.assets/items/enchanted-book2.gif%%
 # Adrénaline
 
 ## Informations
